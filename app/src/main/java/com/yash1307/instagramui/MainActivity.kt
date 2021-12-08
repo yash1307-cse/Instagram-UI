@@ -1,4 +1,4 @@
-package com.example.instagramui
+package com.yash1307.instagramui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -23,6 +23,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.example.instagramui.R
 import com.example.instagramui.ui.theme.InstagramUITheme
 import com.example.instagramui.ui.theme.MyFont
 
