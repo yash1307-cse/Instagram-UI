@@ -1,5 +1,5 @@
 # Instagram UI (Jetpack Compose)
-This is simple and basic Instagram UI by using Jetpack Compose.
+This is a simple and basic Instagram UI by using Jetpack Compose.
 
 
 
